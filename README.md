@@ -11,6 +11,11 @@ A timeline and history of computers put into mulitple small texts when you hover
 ![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/timeline.png?raw=true)
 
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/src/term1/Ryan_Oliver___Timeline_Project___8_28_24.pde)
+
+### ColDet
+
+![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/coldet.png)
+[Source Code]()
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls & allows for saving images
 
@@ -18,6 +23,7 @@ Graphics project with keypress drawing controls & allows for saving images
 
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/src/term1/Ryan_O_____Etch_A_Sketch____9_18_24.pde)
 
+### Temp Converter
 
 ## Term 2
 ### Calculator
