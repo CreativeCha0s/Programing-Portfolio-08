@@ -34,3 +34,9 @@ A working calculator with many functions and a unique design
 [Calc. Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/src/term2/Calculator.pde)
 
 [Button Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/src/term2/Button.pde)
+
+### Space Game
+A shooter space game with functional power ups, lasers, rocks, etc
+
+![Running App]
+[Source Code]
