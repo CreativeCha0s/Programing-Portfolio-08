@@ -24,7 +24,7 @@ A timeline and history of computers put into mulitple small texts when you hover
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls & allows for saving images
 
-![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/etch-a-sketch.png)
+![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/etch-a-sketch.png?raw=true)
 
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/src/term1/Ryan_O_____Etch_A_Sketch____9_18_24.pde)
 
@@ -43,6 +43,6 @@ A working calculator with many functions and a unique design
 ### Space Game
 A shooter space game with functional power ups, lasers, rocks, etc
 
-![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/spacegame.png)
+![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/spacegame.png?raw=true)
 
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/tree/0688ba650bef10cc57939caec11fe59e86409cce/FinalSpaceGame)
