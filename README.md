@@ -18,7 +18,7 @@ A timeline and history of computers put into mulitple small texts when you hover
 
 ### ColDet
 
-![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/coldet.png)
+![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/coldet.png?raw=true)
 
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/6605fd24706083119eb0490d4fb69325a76c4cf7/src/term1/Ryan_O____ColDet___9_9_24.pde)
 ### Etch-A-Sketch
