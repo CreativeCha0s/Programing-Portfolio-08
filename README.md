@@ -27,7 +27,6 @@ Graphics project with keypress drawing controls & allows for saving images
 
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/src/term1/Ryan_O_____Etch_A_Sketch____9_18_24.pde)
 
-### Temp Converter
 
 ## Term 2
 ### Calculator
