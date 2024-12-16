@@ -3,7 +3,6 @@
 # Ryan O. Programing Portfolio 2024-25
 * Email: ryan.w.oliver.09@gmail.com
 * ![src/Screenshot 2024-12-16 at 12.07.48 PM.png](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/ed0bf791c5f907a130a54267a665d88ee1d7defc/src/Screenshot%202024-12-16%20at%2012.07.48%20PM.png?raw=true)
-  #
 * Projected Graduation in 2028
 * Typing 53WPM as of 8-19-24
 * Good at Animation (Flipaclip, Blender, Maya)
