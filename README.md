@@ -1,5 +1,5 @@
 ![Header Image 1 Shadow 1](https://asia.sega.com/SonicXShadowGenerations/assets/images/pc/top/kv.png)
-# (Image found on Google)
+* (Image found on Google)
 # Ryan O. Programing Portfolio 2024-25
 * Projected Graduation in 2028
 * Typing 53WPM as of 8-19-24
