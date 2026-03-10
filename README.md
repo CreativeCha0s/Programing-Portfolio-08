@@ -51,6 +51,7 @@ A shooter space game with functional power ups, lasers, rocks, etc
 A runner game that has powerups, modes, animated characters, and collaborative processes.
 My role: Lead artist & programmer
 
-![Running App] ()
+![Running App] (<img width="1172" height="777" alt="Screenshot 2026-03-10 at 11 28 33 AM" src="https://github.com/user-attachments/assets/b192528e-f4ca-4e29-937f-cf6befd5783b" />
+)
 
 [Source Code] (https://github.com/CreativeCha0s/CreativeGlory)
