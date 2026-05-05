@@ -26,7 +26,8 @@ Source Code: (https://github.com/CreativeCha0s/CreativeGlory)
 ### Ball Puzzle
 A ball launching game where you have to go through a puzzle with obstacles to get the ball into the goal/
 
-Running App ()
+Running App <img width="1599" height="900" alt="image" src="https://github.com/user-attachments/assets/da185d32-787a-4c0a-b81a-319a33b76b12" />
+
 
 Source Code: (https://github.com/CreativeCha0s/CreativeGame)
 ## Term 1
