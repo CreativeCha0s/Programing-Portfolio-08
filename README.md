@@ -34,9 +34,9 @@ Running App <img width="1172" height="777" alt="Screenshot 2026-03-10 at 11 28 3
 
 ## Ball Puzzle - Ryan O.
 A ball launching game where you have to go through a puzzle with obstacles to get the ball into the goal, using 6 classes
-*Obstacles and the edges of the screen bounce the player in the opposite direction (think the DVD logo screen)
-*Goals change the menu to switch the level if the player wants to proceed
-*There are a total of 3 levels implemented so far
+* Obstacles and the edges of the screen bounce the player in the opposite direction (think the DVD logo screen)
+* Goals change the menu to switch the level if the player wants to proceed
+* There are a total of 3 levels implemented so far
 
 Running App <img width="1599" height="900" alt="image" src="https://github.com/user-attachments/assets/da185d32-787a-4c0a-b81a-319a33b76b12" />
 
