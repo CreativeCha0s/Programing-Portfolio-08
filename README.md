@@ -22,6 +22,10 @@ A shooter space game with functional power ups, lasers, rocks, etc, all in diffe
 ## Untitled Runner Game - Grace, Angie, Ryan
 A runner game that has obstacles, gravity, buttons, and collaborative processes, using a total of 6 classes
 My role: Lead artist & side programmer
+* The player has the ability to jump, and move around while jumping, creating a smooth playing experience
+* Obstacles kill the player when the player intercepts them
+* Buttons allow for the navigation of the game's pages
+* Many menus like game screen, start screen, setting screen, etc are all implemented
 
 Running App <img width="1172" height="777" alt="Screenshot 2026-03-10 at 11 28 33 AM" src="https://github.com/user-attachments/assets/b192528e-f4ca-4e29-937f-cf6befd5783b" />
 
@@ -30,6 +34,9 @@ Running App <img width="1172" height="777" alt="Screenshot 2026-03-10 at 11 28 3
 
 ## Ball Puzzle - Ryan O.
 A ball launching game where you have to go through a puzzle with obstacles to get the ball into the goal, using 6 classes
+*Obstacles and the edges of the screen bounce the player in the opposite direction (think the DVD logo screen)
+*Goals change the menu to switch the level if the player wants to proceed
+*There are a total of 3 levels implemented so far
 
 Running App <img width="1599" height="900" alt="image" src="https://github.com/user-attachments/assets/da185d32-787a-4c0a-b81a-319a33b76b12" />
 
@@ -38,6 +45,10 @@ Running App <img width="1599" height="900" alt="image" src="https://github.com/u
 
 ## Space Themed Madlibs - Angie, Ryan, Abd, Gabriel
 A space themed madlibs, with four stories, user inputs, and secrets in the 2 classes used
+* Depending on the user input, the code will display the story that the player wants to view
+* The stories' code allows the player to type in random words and display the full story once the player inputs all the words they want to see
+* There are some funny secrets that can be found depending on what the user input is on the main class/code
+* All this runs in terminal
 
 Running App <img width="928" height="197" alt="image" src="https://github.com/user-attachments/assets/6003ef4f-1083-413e-81ad-4a67b176637e" />
 
