@@ -10,7 +10,10 @@
 # Main Projects
 
 ## Space Game - Ryan O.
-A shooter space game with functional power ups, lasers, rocks, etc, all in different classes
+A shooter space game with functional power ups, lasers, rocks, etc, all in different classes.
+* Powerups involve intersecting the powerup to do things like add to the number off projectiles you get, or the amount of projectiles you can launch at one time
+* Lasers allow the player to destroy rocks when the laser is intersected with the rock
+* The rocks act as obstacles for the player, as intersecting the player with one ends the game.
 
 ![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/spacegame.png?raw=true)
 
@@ -23,7 +26,7 @@ My role: Lead artist & side programmer
 Running App <img width="1172" height="777" alt="Screenshot 2026-03-10 at 11 28 33 AM" src="https://github.com/user-attachments/assets/b192528e-f4ca-4e29-937f-cf6befd5783b" />
 
 
-#### Source Code: (https://github.com/CreativeCha0s/CreativeGlory)
+![Source Code](https://github.com/CreativeCha0s/CreativeGlory)
 
 ## Ball Puzzle - Ryan O.
 A ball launching game where you have to go through a puzzle with obstacles to get the ball into the goal, using 6 classes
@@ -31,14 +34,14 @@ A ball launching game where you have to go through a puzzle with obstacles to ge
 Running App <img width="1599" height="900" alt="image" src="https://github.com/user-attachments/assets/da185d32-787a-4c0a-b81a-319a33b76b12" />
 
 
-Source Code: (https://github.com/CreativeCha0s/CreativeGame)
+![Source Code](https://github.com/CreativeCha0s/CreativeGame)
 
 ## Space Themed Madlibs - Angie, Ryan, Abd, Gabriel
 A space themed madlibs, with four stories, user inputs, and secrets in the 2 classes used
 
 Running App <img width="928" height="197" alt="image" src="https://github.com/user-attachments/assets/6003ef4f-1083-413e-81ad-4a67b176637e" />
 
-Source Code https://github.com/CreativeCha0s/RAGALibs
+![Source Code](https://github.com/CreativeCha0s/RAGALibs)
 
 # Computer Programming 1
 
