@@ -2,7 +2,7 @@
 * (Image found on Google)
 # Ryan O. Programing Portfolio 2024-25
 * Email: ryan.w.oliver.09@gmail.com
-* ![src/Screenshot 2024-12-16 at 12.07.48 PM.png](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/ed0bf791c5f907a130a54267a665d88ee1d7defc/src/Screenshot%202024-12-16%20at%2012.07.48%20PM.png?raw=true)
+![src/Screenshot 2024-12-16 at 12.07.48 PM.png](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/ed0bf791c5f907a130a54267a665d88ee1d7defc/src/Screenshot%202024-12-16%20at%2012.07.48%20PM.png?raw=true)
 * Projected Graduation in 2028
 * Typing 53WPM as of 8-19-24
 * Good at Animation (Flipaclip, Blender, Maya)
@@ -17,7 +17,7 @@ A shooter space game with functional power ups, lasers, rocks, etc, all in diffe
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/tree/0688ba650bef10cc57939caec11fe59e86409cce/FinalSpaceGame)
 
 ## Untitled Runner Game - Grace, Angie, Ryan
-A runner game that has powerups, modes, animated characters, and collaborative processes, using a total of 6 classes
+A runner game that has obstacles, gravity, buttons, and collaborative processes, using a total of 6 classes
 My role: Lead artist & side programmer
 
 Running App <img width="1172" height="777" alt="Screenshot 2026-03-10 at 11 28 33 AM" src="https://github.com/user-attachments/assets/b192528e-f4ca-4e29-937f-cf6befd5783b" />
