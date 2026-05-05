@@ -7,14 +7,16 @@
 * Typing 53WPM as of 8-19-24
 * Good at Animation (Flipaclip, Blender, Maya)
 
-### Space Game
+# Main Projects
+
+## Space Game - Ryan O.
 A shooter space game with functional power ups, lasers, rocks, etc
 
 ![Running App](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/images/spacegame.png?raw=true)
 
 [Source Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/tree/0688ba650bef10cc57939caec11fe59e86409cce/FinalSpaceGame)
 
-### Untitled Runner Game
+## Untitled Runner Game - Grace, Angie, Ryan
 A runner game that has powerups, modes, animated characters, and collaborative processes.
 My role: Lead artist & programmer
 
@@ -23,13 +25,23 @@ Running App <img width="1172" height="777" alt="Screenshot 2026-03-10 at 11 28 3
 
 Source Code: (https://github.com/CreativeCha0s/CreativeGlory)
 
-### Ball Puzzle
+## Ball Puzzle - Ryan O.
 A ball launching game where you have to go through a puzzle with obstacles to get the ball into the goal/
 
 Running App <img width="1599" height="900" alt="image" src="https://github.com/user-attachments/assets/da185d32-787a-4c0a-b81a-319a33b76b12" />
 
 
 Source Code: (https://github.com/CreativeCha0s/CreativeGame)
+
+## Space Themed Madlibs - Angie, Ryan, Abd, Gabriel
+A space themed madlibs, with four stories, user inputs, and secrets in the 2 classes used
+
+Running App <img width="928" height="197" alt="image" src="https://github.com/user-attachments/assets/6003ef4f-1083-413e-81ad-4a67b176637e" />
+
+Source Code https://github.com/CreativeCha0s/RAGALibs
+
+# Computer Programming 1
+
 ## Term 1
 ### Timeline
 A timeline and history of computers put into mulitple small texts when you hover over the name of the computer
@@ -62,6 +74,6 @@ A working calculator with many functions and a unique design
 [Button Code](https://github.com/CreativeCha0s/Programing-Portfolio-08/blob/main/src/term2/Button.pde)
 
 
-# Ryan O. Programing Portfolio 2025-26
+# Computer Programming 2
 
 
